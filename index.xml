@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>原简</title>
-    <link>http://wwww.chentao.org/index.xml</link>
+    <link>http://www.chentao.org/index.xml</link>
     <description>Recent content on 原简</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Dec 2016 14:05:27 +0800</lastBuildDate>
-    <atom:link href="http://wwww.chentao.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.chentao.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://wwww.chentao.org/post/first/</link>
+      <link>http://www.chentao.org/post/first/</link>
       <pubDate>Wed, 28 Dec 2016 14:05:27 +0800</pubDate>
       
-      <guid>http://wwww.chentao.org/post/first/</guid>
+      <guid>http://www.chentao.org/post/first/</guid>
       <description>&lt;p&gt;我非优雅之人，非周日清晨或者周五黄昏。&lt;/p&gt;
 
 &lt;p&gt;我是穷街陋巷闷重的枪响，是二月的破窗，是周二两点的凌晨。&lt;/p&gt;
