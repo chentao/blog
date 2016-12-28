@@ -1,4 +1,4 @@
-baseurl = "http://wwww.chentao.org/"
+baseurl = "http://www.chentao.org/"
 languageCode = "en-us"
 title = "原简"
 theme = "hugo-steam-theme"
