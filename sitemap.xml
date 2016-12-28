@@ -2,19 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.chentao.org/post/afternoon/</loc>
+    <lastmod>2016-12-28T17:55:14+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.chentao.org/post/first/</loc>
     <lastmod>2016-12-28T14:05:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.chentao.org/post/</loc>
-    <lastmod>2016-12-28T14:05:27+08:00</lastmod>
+    <lastmod>2016-12-28T17:55:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.chentao.org/</loc>
-    <lastmod>2016-12-28T14:05:27+08:00</lastmod>
+    <lastmod>2016-12-28T17:55:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
