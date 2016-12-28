@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 原简</title>
+    <link>http://wwww.chentao.org/post/index.xml</link>
+    <description>Recent content in Posts on 原简</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2016 14:05:27 +0800</lastBuildDate>
+    <atom:link href="http://wwww.chentao.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://wwww.chentao.org/post/first/</link>
+      <pubDate>Wed, 28 Dec 2016 14:05:27 +0800</pubDate>
+      
+      <guid>http://wwww.chentao.org/post/first/</guid>
+      <description>&lt;p&gt;我非优雅之人，非周日清晨或者周五黄昏。&lt;/p&gt;
+
+&lt;p&gt;我是穷街陋巷闷重的枪响，是二月的破窗，是周二两点的凌晨。&lt;/p&gt;
+
+&lt;p&gt;我随阴暗的重击从高贵跌落，我为我无所适从的悲哀致歉，黯然伤神，碎骨焚心。&lt;/p&gt;
+
+&lt;p&gt;我与周围的人群格格不入，我是闰日里虚无缥缈的灵魂。&lt;/p&gt;
+
+&lt;p&gt;明暗已在我的肤表下汇聚成一场风暴，闪电还未到来，就已雷鸣阵阵。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
