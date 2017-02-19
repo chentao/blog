@@ -1,12 +1,11 @@
 baseurl = "http://www.chentao.org/"
 languageCode = "en-us"
-title = "美索不达米亚"
 theme = "hugo-steam-theme"
 paginate = 10
 
 [params]
 
-    title = "美索不达米亚"
+    title = "凡有所学"
     subtitle = ""
     copyright = ""
 
